@@ -13,7 +13,6 @@ def second_challenge
         :name => "Romeo",
         :age => "15"
       }
-    }
       :hero_friends => [
         {
           :name => "Benvolio",
